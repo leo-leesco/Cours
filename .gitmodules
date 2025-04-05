@@ -1,0 +1,3 @@
+[submodule "Maths"]
+	path = Maths
+	url = git@github.com:leo-leesco/Cours-Mathematiques.git
